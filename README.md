@@ -1,5 +1,5 @@
 # NLP for Financial Text Analysis
-Predict stock price movements from earnings call transcript
+Predict stock price movements from financial texts:
 
 This repository contains the code and data for an advanced natural language processing (NLP) project that applies state-of-the-art techniques like BERT to financial texts such as earnings calls, analyst reports, and news articles. The goal is to provide valuable insights for investment analysis and decision-making.
 
