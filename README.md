@@ -31,5 +31,5 @@ You can install them using pip or conda.
 
 ## Code using colab
 
-- [Colab Notebook](https://huggingface.co/transformers/](https://drive.google.com/file/d/1Gf63R6hXzLS51IKw-jut9LcGEGqp-ilN/view?usp=sharing)https://drive.google.com/file/d/1Gf63R6hXzLS51IKw-jut9LcGEGqp-ilN/view?usp=sharing)
+- [Colab Notebook](https://drive.google.com/file/d/1Gf63R6hXzLS51IKw-jut9LcGEGqp-ilN/view?usp=sharing)
 - [Output](https://drive.google.com/file/d/1VDLTwTbBoNssjnyp2plkzPODnX6XFUSl/view?usp=sharing)
